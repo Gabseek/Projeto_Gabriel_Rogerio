@@ -23,7 +23,7 @@ public class A {
     }
 
     public void MA2() {
-        System.out.println("Método MA2() da classe A");
+        System.out.println("Método MA2a() da classe A");
     }
 
     public void MA3() {
